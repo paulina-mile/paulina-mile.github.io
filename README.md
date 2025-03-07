@@ -1,18 +1,23 @@
-# paulina-mile.github.io
-# Your Name
-Welcome to my personal portfolio!
-title: Paulina Milewska
-description: Assistant Eductaional Technologist at University of Hertfordshire
+
 ## About Me
-Brief introduction about yourself.
+My name is Paulina and I support staff and students at University of Hertfordshire with the use of technology.
+As part of my role I am exploring the use of AI in higher education, as well as designing an Agent Based System in Unity.
+I am passionate about accessibility and in my capacity as a web developer I assisted multiple groups in optimising their resources to ensure good user experince for all.
 
 ## Skills
-- Skill 1
-- Skill 2
+- C#
+- Python
+- Java
+- HTML, CSS, JavaScript
+- Three.js
 
 ## Projects
-- Project 1
-- Project 2
+- Agent Based System using different types of game AI
+- Prompt Engineering Training for HE
+- LockDown Browser Training for HE Staff
+- EuroSoTL website
+- Shining Spotlight on Scholarship website accessibility audit
 
 ## Contact
+# paulina-mile.github.io
 You can reach me at LinkedIn or GitHub.
