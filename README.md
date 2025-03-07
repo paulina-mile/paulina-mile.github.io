@@ -1,7 +1,8 @@
 # paulina-mile.github.io
 # Your Name
 Welcome to my personal portfolio!
-
+title: Paulina Milewska
+description: Assistant Eductaional Technologist at University of Hertfordshire
 ## About Me
 Brief introduction about yourself.
 
