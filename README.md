@@ -18,6 +18,13 @@ I am passionate about accessibility and in my capacity as a web developer I assi
 - EuroSoTL website
 - Shining Spotlight on Scholarship website accessibility audit
 
+## Featured Project: Game Idea Generator
+
+This is a fun React app that generates random game ideas. Built with React and deployed using GitHub Pages.
+
+🔗 Live Demo  
+📂 View Source on GitHub
+
 ## Contact
 # paulina-mile.github.io
 You can reach me at LinkedIn or GitHub.
