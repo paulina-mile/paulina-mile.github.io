@@ -9,6 +9,7 @@ I am passionate about accessibility and in my capacity as a web developer I assi
 - Python
 - Java
 - HTML, CSS, JavaScript
+- React
 - Three.js
 
 ## Projects
