@@ -22,8 +22,8 @@ I am passionate about accessibility and in my capacity as a web developer I assi
 
 This is a fun React app that generates random game ideas. Built with React and deployed using GitHub Pages.
 
-🔗 Live Demo  
-📂 View Source on GitHub
+🔗 [Live Demo](https://paulina-mile.github.io/game-idea-generator/)  
+📂 [View Source on GitHub](https://github.com/paulina-mile/game-idea-generator/tree/main)
 
 ## Contact
 # paulina-mile.github.io
